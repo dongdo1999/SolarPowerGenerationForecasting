@@ -37,22 +37,22 @@ Project Duration:
    - Investigating solar cell characteristics and relevant domain knowledge.
 
 2. **Exploratory Data Analysis (EDA)**
-   - Analysis includes:
-     - Predicted power generation for different models.
-     - Variance and mean of predictions by time of day.
-     - Error rates by season.
-     - Correlation analysis.
+   - Predicted power generation for different models.
+   - Variance and mean of predictions by time of day.
+   - Error rates by season.
+   - Correlation analysis.
+   - Etc.
 
-3. **Feature Selection and Modeling**
+3. **Feature Engineering,Selection and Modeling**
    - Applying various techniques to enhance performance.
 
 4. **Visualization and Analysis of Prediction Results / Score Calculation**
    - Visualizing and analyzing prediction outcomes.
    - Calculating evaluation scores.
 
-## 📈 공모전 개요
-![image](https://github.com/donghwan0318/Solar-Power-Generation-Forecasting-Using-Weather-and-Generation-Data/assets/136334371/3bd9ed50-fe2f-4906-a29d-94f5f97cd2d7)
-
+## 📈 Compeition introduction
+![image](https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/6e91cc45-6165-40b8-bd35-630eee3640b9)
+![image](https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/f88793b8-7006-42ad-91fe-552d97f45819)
 
 ## 🚨 특수한 발전량 패턴 존재
 ![image](https://github.com/donghwan0318/Solar-Power-Generation-Forecasting-Using-Weather-and-Generation-Data/assets/136334371/52dfcb34-d0aa-4dc4-9ec5-5242f0898e4f)
