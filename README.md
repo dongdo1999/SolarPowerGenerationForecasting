@@ -51,8 +51,7 @@ Project Duration:
    - Calculating evaluation scores.
 
 ## 📈 Compeition introduction
-<img src="https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/6e91cc45-6165-40b8-bd35-630eee3640b9",style="width: 50%; height: auto;")
-![image](https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/f88793b8-7006-42ad-91fe-552d97f45819,style="width: 50%; height: auto;")
+<img src = "https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/6e91cc45-6165-40b8-bd35-630eee3640b9",style="width: 50%; height: auto;">
 
 ## 🚨 특수한 발전량 패턴 존재
 ![image](https://github.com/donghwan0318/Solar-Power-Generation-Forecasting-Using-Weather-and-Generation-Data/assets/136334371/52dfcb34-d0aa-4dc4-9ec5-5242f0898e4f)
