@@ -51,9 +51,9 @@ Project Duration:
    - Calculating evaluation scores.
 
 ## 📈 Compeition introduction
-<img src = "https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/6e91cc45-6165-40b8-bd35-630eee3640b9",style="width: 50%; height: auto;">
+![image](https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/e68194a2-0cf0-4a27-bbf8-c3babc84391b)
 
-## 🚨 특수한 발전량 패턴 존재
+## 🚨 Unusal patterns are observed
 ![image](https://github.com/donghwan0318/Solar-Power-Generation-Forecasting-Using-Weather-and-Generation-Data/assets/136334371/52dfcb34-d0aa-4dc4-9ec5-5242f0898e4f)
 
 일반적으로 정오에 발전량이 최대치를 보이는 커브 형태를 띠지만, 특정한 날에는 그렇지 않을 때가 있음 
