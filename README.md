@@ -1,30 +1,33 @@
-# SolarPowerGenerationForecasting
-
 # 2023-2-PSAT-team-deeplearning
 [notion page](https://www.notion.so/d8e330e9fa9f4461b48caeb27d2f5f8f?v=498c78de406e491296467a215f8275a2)
 
-2023년 2학기 통계분석학회 P-SAT 딥러닝팀 주제분석  
-
-
+Topic Analysis by the P-SAT Deeplearning Data Analysis Team in the Statistical Analysis Society for the 2st Semester of 2023
 
 ## 💻 프로젝트 소개
 
-<예측 기상&발전량을 활용한 태양광 발전량 예측>☀️
+<Forecasting Solar Power Generation Using Predicted Weather & Generation Data>☀️
 
-POSTECH과 H energy가 함께 주최하는 태양광 발전량 예측 대회 - 대학 및 대학원생 대상 제5회 OIBC CHALLENGE
+Competition Overview:
+Hosted by POSTECH and H energy, this competition is part of the 5th OIBC CHALLENGE for university and graduate students.
 
-활용 데이터: 예측된 발전량, 예측대상 발전소 실제 발전량, 운량/기온/습도 등을 포함한 13개의 기상데이터, 예측된 발전량에 대한 인센티브(모델평가 점수)
+Utilized Data:
+- Predicted power generation
+- Actual power generation of the target solar plant
+- 13 weather features including cloud cover, temperature, and humidity
+- Incentives (model evaluation scores) of predicted generation
 
-데이터 출처: 주최 측
+Data Source:
+Provided by the organizers.
 
-프로젝트 기간(duration): 23.10.22 ~ 23.11.17
+Project Duration:
+2023.10.22 ~ 2023.11.17
 
 
-## 🔥 팀 구성 및 역할
+## 🔥 Team members and Roles
 - 이정환(팀장): 태양전지 도메인 조사, 파생변수(시간변환/계절변환), LGBM, LSTM, MLP+LGBM 앙상블,RNN+LGBM 앙상블,SCINet
-- 김동환: 태양전지 도메인 조사, 시계열 클러스터링, 회귀+LGBM 앙상블,구조적시계열모형
+- 김동환: 태양전지 도메인 조사, ,파생변수(벡터유사도), LGBM, LSTM, 시계열 클러스터링, 회귀+LGBM 앙상블,구조적시계열모형
 - 권가민: 앙상블, XGB, 상관분석, x변수 클러스터링(오차율/계절), 오차율/발전량 패턴파악(시간별/계절별), 
-- 박채원: 앙상블,LGBM, 상관분석, 선형회귀계절, x변수 군집화(오차율/계절), 변수선택(계절)
+- 박채원: 앙상블, LGBM, 상관분석, 선형회귀계절, x변수 군집화(오차율/계절), 변수선택(계절)
 - 박준영: 앙상블, 상관분석, 선형회귀시간/계절, 유사도예측, x변수 군집화(오차율/계절)
 
 ## 🔍 분석 흐름
