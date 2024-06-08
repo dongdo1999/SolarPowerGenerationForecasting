@@ -75,5 +75,5 @@ Power generation usually follows a curve with a peak at midday; however, on cert
 
 <img src= "https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/524e87ba-4b87-4c3a-9005-76a79d171ba4" width="33%" height="auto"/>
 <img src = "https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/46549804-2342-4b41-8639-28094922e6c1" width="33%" height="auto"/>
-<igm src="https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/93db9b4d-4c2b-4dd6-acae-40e95d13cd18" width="33%" height="auto"/>
+<img src="https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/93db9b4d-4c2b-4dd6-acae-40e95d13cd18" width="33%" height="auto"/>
 
