@@ -51,30 +51,29 @@ Project Duration:
    - Calculating evaluation scores.
 
 ## 📈 Compeition introduction
-![image](https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/e68194a2-0cf0-4a27-bbf8-c3babc84391b)
+<img src="https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/fa58d2a9-51e7-43fc-b663-29920b5df04e" width="50%" height="auto"/><img src="https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/7d99b035-b0b8-4f64-ab98-8fcfd6b8329b" width="50%
+" height="auto"/>
 
 ## 🚨 Unusal patterns are observed
-![image](https://github.com/donghwan0318/Solar-Power-Generation-Forecasting-Using-Weather-and-Generation-Data/assets/136334371/52dfcb34-d0aa-4dc4-9ec5-5242f0898e4f)
-
-일반적으로 정오에 발전량이 최대치를 보이는 커브 형태를 띠지만, 특정한 날에는 그렇지 않을 때가 있음 
-
-💡 해결을 위한 노력들
-- 단순 그러한 특수한 패턴을 띄는 날들을 클러스터링,변수선택법 등을 통해 분리하고자 하였음(시계열 클러스터링, 오차율기반 클러스터링, 계절별, 시간별, 변수선택법), 이후 클러스터별 개별 모델링 진행
-- 특수한 패턴을 띄는 날들이 과거에 하루는 존재할 것이다 판단하고, 백터 유사도를 이용하여 파생변수를 생성
-
-## 클러스터링
-![image](https://github.com/donghwan0318/Solar-Power-Generation-Forecasting-Using-Weather-and-Generation-Data/assets/136334371/7b6276b6-9ab5-4870-8887-1f52989ce87e)
-![image](https://github.com/donghwan0318/Solar-Power-Generation-Forecasting-Using-Weather-and-Generation-Data/assets/136334371/22b6b698-1d23-44a5-81aa-cf1717972486)
+![image](https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/feb439f0-df64-47f0-bdc8-01ed0d95b6b0)
 
 
+Power generation usually follows a curve with a peak at midday; however, on certain days, this pattern is not observed
 
-## 📃 모델링
-![image](https://github.com/donghwan0318/Solar-Power-Generation-Forecasting-Using-Weather-and-Generation-Data/assets/136334371/876ba0d6-23e0-405e-a68b-a52a7b07cd3a)
-![image](https://github.com/donghwan0318/Solar-Power-Generation-Forecasting-Using-Weather-and-Generation-Data/assets/136334371/9a53886e-e74a-4617-8d93-78962fd65639)
-![image](https://github.com/donghwan0318/Solar-Power-Generation-Forecasting-Using-Weather-and-Generation-Data/assets/136334371/3480801a-ef37-4977-8661-0fa8c4b0eb5c)
+
+💡 Efforts to Resolve
+- To isolate days exhibiting such unique patterns, various techniques were employed, including time-series clustering, error rate-based clustering, seasonal and hourly clustering, and variable selection methods. Subsequent modeling was performed for each cluster.
+- It was assumed that days with unique patterns must have occurred in the past. Derived variables were created using vector similarity.
+
+## Clustering
+![image](https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/a5a0fa69-59b8-43bf-bf33-4bcb439b0543)
+![image](https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/8df6984c-dafa-4c67-9eb8-3d3f3253ac79)
 
 
 
+## 📃 Modeling
 
-
+<img src= "https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/524e87ba-4b87-4c3a-9005-76a79d171ba4" width="33%" height="auto"/>
+<img src = "https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/46549804-2342-4b41-8639-28094922e6c1" width="33%" height="auto"/>
+<img src = "https://github.com/dongdo1999/SolarPowerGenerationForecasting/assets/47492780/09b6941c-5784-4a1d-be69-09999238af0" width="33%" height="auto"/>
 
