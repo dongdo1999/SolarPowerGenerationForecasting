@@ -24,18 +24,31 @@ Project Duration:
 
 
 ## 🔥 Team members and Roles
-- 이정환(팀장): 태양전지 도메인 조사, 파생변수(시간변환/계절변환), LGBM, LSTM, MLP+LGBM 앙상블,RNN+LGBM 앙상블,SCINet
-- 김동환: 태양전지 도메인 조사, ,파생변수(벡터유사도), LGBM, LSTM, 시계열 클러스터링, 회귀+LGBM 앙상블,구조적시계열모형
-- 권가민: 앙상블, XGB, 상관분석, x변수 클러스터링(오차율/계절), 오차율/발전량 패턴파악(시간별/계절별), 
-- 박채원: 앙상블, LGBM, 상관분석, 선형회귀계절, x변수 군집화(오차율/계절), 변수선택(계절)
-- 박준영: 앙상블, 상관분석, 선형회귀시간/계절, 유사도예측, x변수 군집화(오차율/계절)
+- Jung-Hwan Lee (Team Leader): Solar cell domain research, feature engineering (time/season transformation), LGBM, LSTM, MLP+LGBM ensemble, RNN+LGBM ensemble, SCINet.
+- Dong-Hwan Kim: Solar cell domain research, feature engineering (vector similarity), LGBM, LSTM, time series clustering, regression+LGBM ensemble, structural time series model.
+- Ga-Min Kwon: Ensemble methods, XGBoost, correlation analysis, X-variable clustering (error rate/season), pattern analysis (error rate/generation by time/season). 
+- Chae-Won Park: Ensemble methods, LGBM, correlation analysis, seasonal linear regression, X-variable clustering (error rate/season), feature selection (season).
+- Jun-Young Park: Ensemble methods, correlation analysis, linear regression by time/season, similarity prediction, X-variable clustering (error rate/season).
+- 
 
-## 🔍 분석 흐름
-1. 도메인 조사
-2. EDA (모델별 발전량 예측/시간대별 예측량의 분산,평균/계절 별 오차율/상관관계)
-3. 변수 선택/모델링 - 성능향상을 위해 다양한 방법 활용
-4. 예측 결과 시각화 및 분석/점수 계산
+## 🔍 Analysis Workflow
 
+1. **Domain Research**
+   - Investigating solar cell characteristics and relevant domain knowledge.
+
+2. **Exploratory Data Analysis (EDA)**
+   - Analysis includes:
+     - Predicted power generation for different models.
+     - Variance and mean of predictions by time of day.
+     - Error rates by season.
+     - Correlation analysis.
+
+3. **Feature Selection and Modeling**
+   - Applying various techniques to enhance performance.
+
+4. **Visualization and Analysis of Prediction Results / Score Calculation**
+   - Visualizing and analyzing prediction outcomes.
+   - Calculating evaluation scores.
 
 ## 📈 공모전 개요
 ![image](https://github.com/donghwan0318/Solar-Power-Generation-Forecasting-Using-Weather-and-Generation-Data/assets/136334371/3bd9ed50-fe2f-4906-a29d-94f5f97cd2d7)
